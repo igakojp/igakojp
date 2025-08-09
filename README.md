@@ -24,11 +24,11 @@
   
 </div>
 
-## Languages
+## 言語
 
 [![Languages](https://skillicons.dev/icons?i=javascript,html,css,python)](https://skillicons.dev)
 
-## Text editor I use
+## 僕の使うテキストエディター
 
 [![Frameworks](https://skillicons.dev/icons?i=vscode,sublimetext)](https://skillicons.dev)
 
