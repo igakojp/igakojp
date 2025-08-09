@@ -32,10 +32,8 @@
 
 [![App](https://skillicons.dev/icons?i=discord,github,vscode)](https://skillicons.dev)
 
-<!--## My coding stats
-
-  <a href="https://wakatime.com/@taroj1205#gh-dark-mode-only"><img src="https://wakatime.com/share/@taroj1205/73a679e9-c642-449d-a70c-f4dff787c8f6.svg" align="top" /></a>
-<a href="https://wakatime.com/@taroj1205#gh-light-mode-only"><img src="https://wakatime.com/share/@taroj1205/6355258e-a040-45d3-a69e-17b70a94af18.svg" align="top" /></a>
--->
 # 僕の何かをしている時間
 <a href="https://wakatime.com/@igakojp"><img src="https://wakatime.com/share/@igakojp/e42f38d1-9e8c-48b5-8f21-b0520f6ad03e.svg" align="top" /></a>
+
+
+<img src="https://wakatime.com/insights/animated/days.gif" />
