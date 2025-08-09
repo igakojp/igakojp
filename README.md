@@ -40,4 +40,5 @@
 # 僕の何かをしている時間
 <a href="https://wakatime.com/@igakojp"><img src="https://wakatime.com/share/@igakojp/e42f38d1-9e8c-48b5-8f21-b0520f6ad03e.svg" align="top" /></a>
 
-<img src="https://wakatime.com/insights/animated/days.gif" />
+<!---<img src="https://wakatime.com/insights/animated/days.gif" />
+-->
