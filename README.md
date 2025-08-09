@@ -26,11 +26,11 @@
 
 ## Languages
 
-[![Languages](https://skillicons.dev/icons?i=javascript,typescript,html,css,md,python,java)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=javascript,html,css,python)](https://skillicons.dev)
 
-## Framework & Libraries
+## Text editor I use
 
-[![Frameworks](https://skillicons.dev/icons?i=nextjs,express,react,nodejs,flask,tailwind,astro,tauri,vite)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=vscode,sublimetext)](https://skillicons.dev)
 
 ## SQL
 
