@@ -32,13 +32,9 @@
 
 [![Frameworks](https://skillicons.dev/icons?i=vscode,sublimetext)](https://skillicons.dev)
 
-## SQL
+## 
 
-[![SQL](https://skillicons.dev/icons?i=mysql,sqlite,postgresql)](https://skillicons.dev)
-
-## SaaS
-
-[![Third-Party Services](https://skillicons.dev/icons?i=supabase,vercel,netlify)](https://skillicons.dev)
+[![App](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 
 <!--## My coding stats
 
