@@ -9,7 +9,7 @@
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taroj/)
   [![Profile Views](https://komarev.com/ghpvc/?username=taroj1205&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc/?username=taroj1205&label=Profile%20views&color=0e75b6&style=for-the-badge)-->
   <br />
-  [![Wakatime](https://wakatime.com/badge/user/4574977e-50bb-4df7-803b-fe5b31eab6dd.svg?style=for-the-badge)](https://wakatime.com/@4574977e-50bb-4df7-803b-fe5b31eab6dd)
+  [![Wakatime](https://wakatime.com/badge/user/4574977e-50bb-4df7-803b-fe5b31eab6dd.svg?style=for-the-badge/)](https://wakatime.com/@4574977e-50bb-4df7-803b-fe5b31eab6dd)
 
 
   <!--<a href="https://github-readme-streak-stats.herokuapp.com/?user=taroj1205&theme=black-ice&border_color=20252a&stroke=0000&background=060A0CD0#gh-dark-mode-only">
