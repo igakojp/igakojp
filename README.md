@@ -17,21 +17,6 @@
   <h3>WAKATIME</h3>
   
   [![Wakatime](https://wakatime.com/badge/user/4574977e-50bb-4df7-803b-fe5b31eab6dd.svg?style=for-the-badge)](https://wakatime.com/@4574977e-50bb-4df7-803b-fe5b31eab6dd)
-
-
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=taroj1205&theme=black-ice&border_color=20252a&stroke=0000&background=060A0CD0#gh-dark-mode-only">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="taroj1205's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=taroj1205&theme=black-ice&border_color=20252a&stroke=0000&background=060A0CD0#gh-dark-mode-only"/>
-  </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=taroj1205&theme=black-ice&border_color=20252a&stroke=0000&background=060A0CD0#gh-light-mode-only">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="taroj1205's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=taroj1205&theme=default&border_color=20252a&stroke=0000&background=ffffff"/>
-  </a>  
- 
-  <!--  <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
-  <img src="https://github-profile-trophy.vercel.app/?username=taroj1205&theme=onedark" 
-    </a>
-      <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
-  <img src="https://github-profile-trophy.vercel.app/?username=taroj1205&theme=flat" 
-    </a> -->
   
 </div>
 
@@ -41,11 +26,11 @@
 
 ## 僕の使うテキストエディター
 
-[![texteditor](https://skillicons.dev/icons?i=vscode,sublimetext)](https://skillicons.dev)
+[![texteditor](https://skillicons.dev/icons?i=vscode,sublime)](https://skillicons.dev)
 
 ## 僕のよくいるアプリ
 
-[![App](https://skillicons.dev/icons?i=discord,github,x)](https://skillicons.dev)
+[![App](https://skillicons.dev/icons?i=discord,github,vscode)](https://skillicons.dev)
 
 <!--## My coding stats
 
