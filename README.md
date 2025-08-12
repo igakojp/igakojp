@@ -43,3 +43,5 @@
 
 <!---<img src="https://wakatime.com/insights/animated/days.gif" />
 -->
+
+<iframe src="https://discord.com/widget?id=1404029971038605342&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
