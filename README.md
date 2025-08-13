@@ -12,6 +12,7 @@
   [![YouTube](https://img.shields.io/badge/YouTube-ffffff?style=for-the-badge&logo=youtube&logoColor=red)](https://youtube.com/@igakojp_tri-u)
   [![X](https://img.shields.io/badge/X(Twitter)-ffffff?style=for-the-badge&logo=x&logoColor=black)](https://x.com/igakojp)
   [![novel](https://img.shields.io/badge/%E5%B0%8F%E8%AA%AC-%E3%82%AB%E3%82%AF%E3%83%A8%E3%83%A0-2792ca?style=for-the-badge)](https://kakuyomu.jp/users/igakojp)
+  [![YouTubePlayList](https://img.shields.io/badge/イガコの好きな曲(YouTube)-ffffff?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/playlist?list=PLq5fmALsbE3p43GXTkJ4YVSRLZcNkTw0E)
 
   <br />
   
