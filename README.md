@@ -20,7 +20,7 @@
   <h3>Discord server</h3>
   
   [![discord](https://discord.com/api/guilds/1355330112593203240/widget.png?style=banner2)](https://discord.com/invite/UtvHAdH28g/)
-  [![novel_discord](https://discord.com/api/guilds/1404029971038605342/widget.png?style=banner2)](https://discord.com/invite/74NK7ZugYT/)
+  [![novel_discord](https://discord.com/api/guilds/1404029971038605342/widget.png?style=banner2)](https://discord.gg/xXzNJeUehx)
   
   <h3>WAKATIME</h3>
   
