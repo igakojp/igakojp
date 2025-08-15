@@ -7,7 +7,8 @@
 </div>
 
 <div align="center">
-  <h3>僕の活動するサイト</h3>
+  
+  ## 僕の活動する場所
   
   [![YouTube](https://img.shields.io/badge/YouTube-ffffff?style=for-the-badge&logo=youtube&logoColor=red)](https://youtube.com/@igakojp_tri-u)
   [![X](https://img.shields.io/badge/X(Twitter)-ffffff?style=for-the-badge&logo=x&logoColor=black)](https://x.com/igakojp)
@@ -15,6 +16,8 @@
   [![YouTubePlayList](https://img.shields.io/badge/イガコの好きな曲(YouTube)-ffffff?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/playlist?list=PLq5fmALsbE3p43GXTkJ4YVSRLZcNkTw0E)
 
   <br />
+  
+  <h3>Discord server</h3>
   
   [![discord](https://discord.com/api/guilds/1355330112593203240/widget.png?style=banner2)](https://discord.com/invite/UtvHAdH28g/)
   [![novel_discord](https://discord.com/api/guilds/1404029971038605342/widget.png?style=banner2)](https://discord.com/invite/74NK7ZugYT/)
@@ -25,15 +28,17 @@
   
 </div>
 
-## 言語
+# 僕のこと
+
+<h3>使ったことのある言語</h3>
 
 [![Languages](https://skillicons.dev/icons?i=javascript,html,css,python)](https://skillicons.dev)
 
-## 僕の使うテキストエディター
+<h3>僕の使うテキストエディター</h3>
 
 [![texteditor](https://skillicons.dev/icons?i=vscode,sublime)](https://skillicons.dev)
 
-## 僕のよくいるアプリ
+<h3>僕のよくいるアプリ</h3>
 
 [![App](https://skillicons.dev/icons?i=discord,github,vscode)](https://skillicons.dev)
 
@@ -42,7 +47,7 @@
   <a href="https://wakatime.com/@taroj1205#gh-dark-mode-only"><img src="https://wakatime.com/share/@taroj1205/73a679e9-c642-449d-a70c-f4dff787c8f6.svg" align="top" /></a>
 <a href="https://wakatime.com/@taroj1205#gh-light-mode-only"><img src="https://wakatime.com/share/@taroj1205/6355258e-a040-45d3-a69e-17b70a94af18.svg" align="top" /></a>
 -->
-# 僕の何かをしている時間
+# 僕の小説などを書いてる時間
 <a href="https://wakatime.com/@igakojp"><img src="https://wakatime.com/share/@igakojp/703f2db2-a831-454b-9d32-c98592549482.svg" align="top" /></a>
 
 <!---<img src="https://wakatime.com/insights/animated/days.gif" />
