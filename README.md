@@ -1,4 +1,4 @@
-<h1 align="center">ｲｶﾞｺと申します。</h1>
+<div><h1 align="center">ｲｶﾞｺと申します。</h1>
 <div align="center">
   
   ## 自己紹介
@@ -42,14 +42,18 @@
 
 [![App](https://skillicons.dev/icons?i=discord,github,vscode)](https://skillicons.dev)
 
-<!--## My coding stats
+# 小説を書くときに使うもの
+## アプリ
+[![texteditor](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+## 拡張機能
+[![Extention1](https://img.shields.io/badge/Save_Typing-2792ca?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=akhail.save-typing)
+[![Extention2](https://img.shields.io/badge/Word_Devider-2792ca?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=yutotnh.word-divider)
+[![Extention3](https://img.shields.io/badge/WriteMate_|_小説を書き切るための相棒-2792ca?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=sui-rabbit.writemate)
+[![Extention4](https://img.shields.io/badge/テキスト小説-2792ca?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=gearsns.text-novel)
+[![Extention5](https://img.shields.io/badge/codeXP-2792ca?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=pixl-garden.codexp)
+[![Extention6](https://img.shields.io/badge/Background-2792ca?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=Katsute.code-background)
+## 投稿場所
+[![novel](https://img.shields.io/badge/%E5%B0%8F%E8%AA%AC-%E3%82%AB%E3%82%AF%E3%83%A8%E3%83%A0-2792ca?style=for-the-badge)](https://kakuyomu.jp/users/igakojp)
 
-  <a href="https://wakatime.com/@taroj1205#gh-dark-mode-only"><img src="https://wakatime.com/share/@taroj1205/73a679e9-c642-449d-a70c-f4dff787c8f6.svg" align="top" /></a>
-<a href="https://wakatime.com/@taroj1205#gh-light-mode-only"><img src="https://wakatime.com/share/@taroj1205/6355258e-a040-45d3-a69e-17b70a94af18.svg" align="top" /></a>
--->
 # 僕の小説などを書いてる時間
 <a href="https://wakatime.com/@igakojp"><img src="https://wakatime.com/share/@igakojp/703f2db2-a831-454b-9d32-c98592549482.svg" align="top" /></a>
-
-<!---<img src="https://wakatime.com/insights/animated/days.gif" />
--->
-
