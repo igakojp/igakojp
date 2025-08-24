@@ -56,4 +56,4 @@
 [![novel](https://img.shields.io/badge/%E5%B0%8F%E8%AA%AC-%E3%82%AB%E3%82%AF%E3%83%A8%E3%83%A0-2792ca?style=for-the-badge)](https://kakuyomu.jp/users/igakojp)
 
 # 僕の小説などを書いてる時間
-<a href="https://wakatime.com/@igakojp"><img src="https://wakatime.com/share/@igakojp/40980de4-23bd-4ea6-8f5c-36bfd3b0b988.svg" align="top" /></a>
+<a href="https://wakatime.com/@igakojp"><img src="https://wakatime.com/share/@igakojp/b31aa09a-5247-4bfd-a153-a43be1a899a1.svg" align="top" /></a>
