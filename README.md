@@ -21,7 +21,7 @@
   
   [![discord](https://discord.com/api/guilds/1355330112593203240/widget.png?style=banner2)](https://discord.com/invite/UtvHAdH28g/)
   [![novel_discord](https://discord.com/api/guilds/1404029971038605342/widget.png?style=banner2)](https://discord.gg/xXzNJeUehx)
-  
+  　
   <h3>WAKATIME</h3>
   
   [![Wakatime](https://wakatime.com/badge/user/4574977e-50bb-4df7-803b-fe5b31eab6dd.svg?style=for-the-badge)](https://wakatime.com/@4574977e-50bb-4df7-803b-fe5b31eab6dd)
