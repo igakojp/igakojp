@@ -59,4 +59,4 @@
 <a href="https://wakatime.com/@igakojp"><img src="https://wakatime.com/share/@igakojp/b31aa09a-5247-4bfd-a153-a43be1a899a1.svg" align="top" /></a>
 
 # 僕のプログラミングについて
-僕が初めてプログラミングに触れたのは[![スクラッチでした](https://scratch.mit.edu/)]。
+僕が初めてプログラミングに触れたのは[![スクラッチでした](https://img.shields.io/badge/スクラッチ-ffffff?style=for-the-badge&logoColor=yellow)](https://scratch.mit.edu/)。
