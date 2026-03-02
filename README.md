@@ -19,8 +19,8 @@
   
   <h3>Discord server</h3>
   
-  [discord](https://discord.com/invite/UtvHAdH28g/)
-  [![novel_discord](https://discord.com/api/guilds/1404029971038605342/widget.png?style=banner2)](https://discord.gg/xXzNJeUehx)
+  [公式トライユー](https://discord.com/invite/UtvHAdH28g/)
+  [まいふれ](https://discord.com/invite/v3BRjCKnyr)
   　
   <h3>WAKATIME</h3>
   
