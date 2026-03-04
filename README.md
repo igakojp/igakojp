@@ -32,7 +32,7 @@
 
 <h3>使ったことのある言語</h3>
 
-[![Languages](https://skillicons.dev/icons?i=javascript,html,css,python)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=javascript,html,css,python,lua)](https://skillicons.dev)
 
 <h3>僕の使うテキストエディター</h3>
 
