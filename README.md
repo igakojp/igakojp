@@ -1,6 +1,5 @@
 <div><h1 align="center">ｲｶﾞｺと申します。</h1>
 <div align="center">
-  <img src="https://gwd4o7xj.user.webaccel.jp/4ApO1be3/f867fdcffd01957.jpg" align="top" />
   # にんちゃんへ
   https://connections.roblox.com/share?v=v2&code=6bxz9k8njk783i
   
