@@ -1,4 +1,4 @@
-<div><h1 align="center">ｲｶﾞｺと申します。</h1>
+<div><h1 align="center">ｲｶﾞｺと申します。https://connections.roblox.com/share?v=v2&code=6bxz9k8noue6gb</h1>
 <div align="center">
   # にんちゃんへ
   https://connections.roblox.com/share?v=v2&code=6bxz9k8njk783i
