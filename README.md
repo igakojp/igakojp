@@ -2,7 +2,7 @@
 <div align="center">
   リンク張るところ/ロブロ回避用
   
-  https://free-app-thing.vercel.app/
+  https://connections.roblox.com/share?v=v2&code=6bxz9k8njn4d10
 
   
   # にんちゃんへ
