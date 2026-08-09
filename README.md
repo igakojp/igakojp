@@ -2,7 +2,7 @@
 <div align="center">
   リンク張るところ/ロブロ回避用
   
-  ```https://connections.roblox.com/share?v=v2&code=6bxz9k8njn4d10```
+  ```[https://connections.roblox.com/share?v=v2&code=6bxz9k8njn4d10](https://playvortex.io/verify-registration?token=t_oRBSynuglmZQE8UKhEKkgkWj90K2X94KAfKMdxG5U)```
 
   
   # にんちゃんへ
