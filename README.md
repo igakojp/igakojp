@@ -2,7 +2,7 @@
 <div align="center">
   リンク張るところ/ロブロ回避用
   
-  ```https://connections.roblox.com/share?v=v2&code=6bxz9k8ntzenal```
+  ```https://connections.roblox.com/share?v=v2&code=6bxz9k8nxk2w1l```
   
   ## 自己紹介
   皆さん、こんにちは。ｲｶﾞｺと申します。趣味は小説を書くこと、ゲームをすること、音楽を聴くこと、学校に行かないこと、YouTubeで動画を見ること、などなど色々あります。ここでは特に何もしていません。非公開にしていますが、小説を保存するために使ったりしています。
